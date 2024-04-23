@@ -1,6 +1,6 @@
 # AiBio-Final-Project
 Final Project, choose own data, make a model
-
+Hi, lemme know if you can see this
 
 For the project, you can largely pick what you want to do. Essentially, select some data that can be analyzed with AI and work to make a notebook that walks through the process of analyzing the data.
 
