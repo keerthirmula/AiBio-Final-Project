@@ -9,7 +9,7 @@ Your own data
 
 Kaggle
 
-UCI Machine Learning Repository
+UCI Machine Learning Repository***
 
 NASA Earth Data
 
@@ -29,3 +29,17 @@ Hyperparameter tuning: Do some playing with the model hyperparameters (learning 
 Results: How did the model do
 
 Discussion: Summarize what worked, what didn't etc.
+
+
+## Selected Dataset 
+From UC Irvine Machine Learning Repository 
+
+Mushroom
+,Donated on 4/26/1987
+,From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible
+
+https://archive.ics.uci.edu/dataset/73/mushroom
+
+"This data set includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family (pp. 500-525).  Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended.  This latter class was combined with the poisonous one.  The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like ``leaflets three, let it be'' for Poisonous Oak and Ivy."
+
+Mushroom. (1987). UCI Machine Learning Repository. https://doi.org/10.24432/C5959T.
